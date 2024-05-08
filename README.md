@@ -1,5 +1,5 @@
 <h1 align="center"> oyee-kenichi</h1> 
-<p align="center"> Introducing À𝖑è𝖝 𝕻ì𝖐ù, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<p align="center"> Introducing oyee-kenichi, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-alex-piku.onrender.com).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-alex-piku.onrender.com).***
 ---
